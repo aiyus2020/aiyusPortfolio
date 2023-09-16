@@ -4,6 +4,6 @@ This is my Front Web developer portfolio built with HTML, SASS, JavaScript, Boot
 
 ## Screenshot
 
-![](public\Images\Projects\portfolio.PNG)
+![](./port.PNG)
 
 - Live Site: [https://aiyusportfolio.netlify.app/](https://aiyusportfolio.netlify.app/)
