@@ -18,7 +18,8 @@ const Projects = () => {
           details="This is my portfolio site done with React. Built this with:"
           tools={["HTML", "SASS", "Bootstrap", "React", "Framer Motion"]}
           filename="portfolio.PNG"
-          isPortfolio
+          githubURL="https://github.com/aiyus2020/aiyusPortfolio"
+          projectURL="https://aiyusportfolio.netlify.app/"
         />
         <Project
           heading="Weather App"
