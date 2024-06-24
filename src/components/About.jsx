@@ -36,7 +36,7 @@ const About = () => {
           <br />
           <a
             className="btn red-btn"
-            href="My-Portfolio\aiyudubie_ediagbonya_CV (1).docx" // Use the correct path
+            href="My-Portfolio\mycv.pdf" // Use the correct path
             download="Aiyudubie's Resume"
           >
             <i className="fa-solid fa-download"></i> Download Resume
