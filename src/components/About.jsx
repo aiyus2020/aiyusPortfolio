@@ -39,7 +39,7 @@ const About = () => {
             href="My-Portfolio\mycv.pdf" // Use the correct path
             download="Aiyudubie's Resume"
           >
-            <i className="fa-solid fa-download"></i> Download Resume
+             Download Resume
           </a>
         </div>
       </div>
