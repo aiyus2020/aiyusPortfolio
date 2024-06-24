@@ -36,10 +36,10 @@ const About = () => {
           <br />
           <a
             className="btn red-btn"
-            href="My-Portfolio\mycv.pdf" // Use the correct path
+            href="port\mycv.pdf" // Use the correct path
             download="Aiyudubie's Resume"
           >
-             Download Resume
+            Download Resume
           </a>
         </div>
       </div>
